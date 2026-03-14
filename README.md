@@ -1,11 +1,10 @@
 # AI-AOI-PCB-defect-detection
 PCB Defect Detection using YOLOv8 & Computer Vision
 
-** Project Overview**
 An end-to-end AI-powered Automated Optical Inspection system for real-time PCB defect detection. This system replicates industrial AOI machines used in SMT manufacturing lines — built using open-source tools and deep learning.
- Inspired by hands-on experience in PCB Quality Inspection at Bhagwati Products Limited, Bhiwadi (SMT Department)
+Inspired by hands-on experience in PCB Quality Inspection at Bhagwati Products Limited, Bhiwadi (SMT Department)
 
- Key Features
+Key Features
 
 Real-time PCB defect detection using YOLOv8
 Live camera feed with instant PASS/FAIL result
